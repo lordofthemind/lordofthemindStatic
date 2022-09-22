@@ -8,6 +8,8 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+/* @import url('https://fonts.googleapis.com/css2?family=Hanalei+Fill&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Distressed&display=swap'); */
 @import url('https://fonts.googleapis.com/css2?family=Rubik+Dirt&display=swap');
 body {
   font-family: "Open Sans", sans-serif;
@@ -311,7 +313,10 @@ h6 {
   font-size: 64px;
   font-weight: 700;
   line-height: 56px;
-  color: #45505b;
+  color: #0f111a;
+  /* color: #45505b; */
+  font-family: 'Rubik Dirt', cursive;
+  /* font-family: 'Rubik Distressed', cursive; */
 }
 
 #hero p {
